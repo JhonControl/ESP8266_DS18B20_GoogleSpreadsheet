@@ -29,7 +29,7 @@ https://www.youtube.com/c/JhonValenciaPDAcontrol
 https://youtu.be/5f7wCeD4gB4
 
 # Google Spreadsheets
-![Spreadsheets](https://github.com/JhonControl/ESP8266_DS18B20_GoogleSpreadsheet/blob/master/extras/Real.jpg)
+![Spreadsheets](https://github.com/JhonControl/ESP8266_DS18B20_GoogleSpreadsheet/blob/master/extras/sheets.JPG)
 
 # ESP8266 - 01  + Temperature DS18B20 Onewire
 ![ESP8266 01](https://github.com/JhonControl/ESP8266_DS18B20_GoogleSpreadsheet/blob/master/extras/Real.jpg)
