@@ -10,12 +10,17 @@ If we want a simple solution to monitor temperature, for complicate applications
 if we have Google Docs, This test perform temperature measurement using a probe DS18B20 and transmit directly to  Google spreadsheets using as Google app script bridge.
 For this test approximately every 10 seconds temperature data was sent.
 
-#Control outputs  ESP8266  with Google spreadsheets (Google docs) Direct
-Control outputs  ESP8266  with Google spreadsheets (Google docs) Direct  
+#Connection ESP8266 and Google spreadsheet (Google Docs) Direct 
+Connection ESP8266 and Google spreadsheet (Google Docs) Direct 
 https://youtu.be/5f7wCeD4gB4
 
 #Test Prueba 01-  ESP8266 + DS18B20 Onewire + Google Speadsheets (Google Docs)
 Test Prueba 01-  ESP8266 + DS18B20 Onewire + Google Speadsheets (Google Docs)
+
+http://pdacontrolenglish.blogspot.com.co/2016/07/test-esp8266-ds18b20-onewire-google.html
+
+http://pdacontrol.blogspot.com.co/2016/07/prueba-esp8266-ds18b20-onewire-google.html
+
 https://youtu.be/YgMl30IDrxw
 
 # Mas informacion -  More Info
@@ -32,6 +37,7 @@ https://youtu.be/5f7wCeD4gB4
 ![Spreadsheets](https://github.com/JhonControl/ESP8266_DS18B20_GoogleSpreadsheet/blob/master/extras/sheets.JPG)
 
 # ESP8266 - 01  + Temperature DS18B20 Onewire
+
 ![ESP8266 01](https://github.com/JhonControl/ESP8266_DS18B20_GoogleSpreadsheet/blob/master/extras/Real.jpg)
 
 # Connections - Conexiones
