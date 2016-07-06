@@ -35,7 +35,13 @@ https://youtu.be/5f7wCeD4gB4
 ![ESP8266 01](https://github.com/JhonControl/ESP8266_DS18B20_GoogleSpreadsheet/blob/master/extras/Real.jpg)
 
 # Connections - Conexiones
-![Conexiones](https://github.com/JhonControl/ESP8266_DS18B20_GoogleSpreadsheet/blob/master/extras/sheets.JPG)
+![Conexiones](https://github.com/JhonControl/ESP8266_DS18B20_GoogleSpreadsheet/blob/master/extras/Diagram.jpg)
 
 
+# Thanks to...
+Thanks to the creator of the library HTTPSRedirect
+Sujay Phadke
+
+https://github.com/electronicsguy
+electronicsguy
 
